@@ -30,7 +30,7 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/devCurti/React-Springboot-Tasks-Project-Front-End
+git clone https://github.com/devCurti/Login_Page_Back
 
 # entrar na pasta do projeto back end
 
