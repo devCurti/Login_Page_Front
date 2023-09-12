@@ -4,9 +4,9 @@ Login Page é um projeto onde é feito login e cadastro de usuários.
 
 Nesse projeto eu trabalhei validações de usuário e senha.
 
-![Login_img1](https://github.com/devCurti/Login_Page/assets/106403307/8f407598-711c-4c05-989f-d4d38edccb91)
+![Login_img1](https://github.com/devCurti/Login_Page_Front/assets/106403307/9c816ae1-c704-4c63-b868-7a281e7f1cc1)
 
-![Login_img2](https://github.com/devCurti/Login_Page/assets/106403307/45c3dc86-9cfa-4140-aaf8-5743186c1f0a)
+![Login_img2](https://github.com/devCurti/Login_Page_Front/assets/106403307/a1843619-b202-413f-8535-ca266af2c53b)
 
 
 # Tecnologias utilizadas
